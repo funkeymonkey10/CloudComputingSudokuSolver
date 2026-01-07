@@ -30,8 +30,8 @@ When processing 10,000 Sudoku puzzles, the slowest performance occurred when the
 
 <img width="656" height="284" alt="image" src="https://github.com/user-attachments/assets/0686a349-a5c9-4577-aecb-db25146093a8" />
 
-**Code for main:** https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/MassSudoku.java
+**Code for main:** [MassSudoku](https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/MassSudoku.java)
 
-**Code for Places Class:** https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/SudokuPlaces.java
+**Code for Places Class:** [SudokuPlaces](https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/SudokuPlaces.java)
 
-**Sample Output for 100 puzzles:** https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/output.txt
+**Sample Output for 100 puzzles:** [Sample txt](https://github.com/funkeymonkey10/CloudComputingSudokuSolver/blob/main/output.txt)
