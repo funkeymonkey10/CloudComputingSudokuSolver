@@ -10,6 +10,8 @@ The strategy used to solve the Sudoku problems follows a divide-and-conquer appr
 
 Each Sudoku puzzle is solved using a backtracking algorithm enhanced with the Minimum Remaining Values (MRV) heuristic to reduce unnecessary search. The algorithm selects the empty cell with the fewest valid candidate values, assigns a possible number, and recursively continues. If any Sudoku constraints are violated—row, column, or 3×3 subgrid—the algorithm backtracks and tries an alternative value. Once a puzzle is solved, the completed grid along with its associated filename is returned and stored in an object array. If the puzzle cannot be solved, a null value is returned in place of the grid to indicate failure. After all puzzles have been processed, the object array is written to an output file that separates solved puzzles from unsolved ones.
 
+<img width="1400" height="1126" alt="MRVHeuristic" src="https://github.com/user-attachments/assets/b38e4c31-ad88-4918-80d5-bca3f6cc7bb5" />
+
 **Performance:**
 
 When processing 10,000 Sudoku puzzles, the slowest performance occurred when the application was executed using a single computing node, with an elapsed time of 15,651 milliseconds. The fastest performance was achieved using four computing nodes, completing execution in 9,155 milliseconds. This corresponds to a speedup of approximately 1.71× compared to execution with a single node.
