@@ -2,7 +2,7 @@
 
 **Programming Language:** Java
 
-**API's:** MASS
+**Parallel Computing API:** MASS
 
 **Short Description:**
 
