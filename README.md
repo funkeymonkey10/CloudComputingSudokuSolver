@@ -6,7 +6,7 @@
 
 **Parallel Computing API:** MASS
 
-**Environment:** Linux Operating System, Maven for Package Application
+**Environment:** Linux Operating System, Maven for Packaging Application
 
 **Short Description:**
 
