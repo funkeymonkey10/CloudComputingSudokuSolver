@@ -1,4 +1,4 @@
-## CloudComputingSudokuSolver
+# CloudComputingSudokuSolver
 
 # **Masters Project For CSS 534: Parallel Computing in the Grid and Cloud**
 
